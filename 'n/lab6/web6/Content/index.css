@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i&amp;subset=cyrillic,cyrillic-ext' rel="stylesheet');
+#logo{
+    font-size: 400%
+}
+
+.about{
+    font-style: italic;
+}
+
+body{
+    font-family: "Open Sans";
+    margin-left: 20px;
+}
